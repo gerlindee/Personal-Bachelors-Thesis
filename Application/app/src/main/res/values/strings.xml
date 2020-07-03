@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Quizzicat</string>
+    <string name="hint_email">E-mail Address</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button_text">Log In</string>
+    <string name="register_button_text">Create account</string>
+    <string name="placeholder_application_header">Application Header</string>
+    <string name="text_register_account_question">Don\'t have an account?</string>
+    <string name="text_register_navigation_link">Sign up now!</string>
+    <string name="hint_repeat_password">Repeat Password</string>
+    <string name="hint_register_button">Create account</string>
+    <string name="placeholder_log_facebook">Login with Facebook</string>
+    <string name="placeholder_log_google">Login with Google</string>
+    <string name="placeholder_log_twitter">Login with Twitter</string>
+    <string name="hint_username">Display Name</string>
+    <string name="placeholder_terms_of_service">I have read and agree with the Terms of Service.</string>
+    <string name="placeholder_select_photo">Select photo</string>
+    <string name="placeholder_avatar">User Avatar</string>
+    <string name="placeholder_forgot_password">Forgot your password?</string>
+
+    <!--    facebook app information-->
+    <string name="facebook_app_id">243414633450192</string>
+    <string name="fb_login_protocol_scheme">fb243414633450192</string>
+    <string name="placeholder_no_internet_title">Ooops!</string>
+    <string name="placeholder_no_internet_line_1">Slow or no internet connection.</string>
+    <string name="placeholder_no_internet_line_2">Check your internet settings and try again.</string>
+    <string name="placehoder_no_internet_button">Try again</string>
+    <string name="string_placeholder">Placeholder</string>
+    <string name="string_all_categories">All categories</string>
+    <string name="string_custom_quiz_duration">Each question needs to be answered in at most 10 seconds, regardless of the quiz difficulty or the number of questions. \n Good luck!</string>
+    <string name="string_report_question_text">Report a pending question only if you consider that its content is inappropriate, if it is a duplicate of an already existing question or if you believe that it is incorrectly labelled. </string>
+    <string name="string_play_button">Play</string>
+    <string name="string_quiz_details_title">QUIZ DETAILS</string>
+    <string name="string_finish_quiz">Finish</string>
+    <string name="placeholder_nr_of_questions">01/05</string>
+    <string name="placeholder_time">00:10</string>
+    <string name="placeholder_question_text">Question Text</string>
+    <string name="placeholder_answer_text">Answer Text</string>
+    <string name="placeholder_next_question">NEXT</string>
+    <string name="settings_change_profile">Change profile information</string>
+    <string name="settings_reset_password">Reset your password</string>
+    <string name="settings_delete_history">Delete playing history</string>
+    <string name="settings_delete_account">Delete account</string>
+    <string name="settings_log_out">Log out</string>
+    <string name="settings_delete_message">We\'re sad to see you go</string>
+    <string name="delete_acc_line_1">All the data associated with this account will \n be deleted, including your user profile information, \n playing history, statistics and recommendations.</string>
+    <string name="delete_acc_line_2">All the questions that you have submitted will \n remain part of the leaderboard and the question roster.</string>
+    <string name="delete_acc_confirm">Confirm your e-mail address</string>
+    <string name="default_avatar"><![CDATA[https://firebasestorage.googleapis.com/v0/b/quizzicat-ca219.appspot.com/o/Avatars%2Fdefault_icon.png?alt=media&token=bfb09bfc-df91-4027-8242-5480e6c27e3f]]></string>
+    <string name="string_change_acc_password">Confirm account changes</string>
+    <string name="string_save_changes">Save changes</string>
+    <string name="string_no_statistics">Seems like you have not played any quizzes yet!</string>
+    <string name="solo_quizzes_text">solo quizzes</string>
+    <string name="solo_correct_answers">correct answers</string>
+    <string name="solo_incorrect_answers">incorrect answers</string>
+    <string name="string_correct">Correct</string>
+    <string name="string_incorrect">Incorrect</string>
+    <string name="string_questions_factory">Questions Factory</string>
+    <string name="factory_suggest_title">Suggest a question</string>
+    <string name="factory_suggest_desc">Suggest new questions for your favourite topics</string>
+    <string name="factory_approved_title">Approved questions</string>
+    <string name="factory_approved_desc">Questions that have been approved and added to the game</string>
+    <string name="factory_pending_title">Pending questions</string>
+    <string name="factory_pending_desc">Questions need at least 75% ratings over 4 stars in order to be approved</string>
+    <string name="factory_rejected_title">Rejected questions</string>
+    <string name="factory_rejected_desc">Questions need to have been reported by 65% of the number of users or have a rating less than 2 stars in order to be removed</string>
+    <string name="hint_question_text">Question text</string>
+    <string name="string_create_text_button">Create Question</string>
+    <string name="string_first_answ_text">First Answer Text</string>
+    <string name="string_second_answ_text">Second Answer Text</string>
+    <string name="string_third_answ_text">Third Answer Text</string>
+    <string name="string_fourth_answ_text">Fourth Answer Text</string>
+    <string name="string_difficulty">Difficulty:</string>
+    <string name="string_report_question">REPORT QUESTION</string>
+    <string name="string_rated">Rated!</string>
+    <string name="placeholder_hm">Hmm...</string>
+    <string name="placeholder_empty_leaderboard">Seems like there are no questions currently in the leaderboard</string>
+    <string name="placeholder_no_pending_questions">Seems like you have not submitted any questions yet</string>
+    <string name="string_create_multi_game">Create a new game</string>
+    <string name="placeholder_empty_multi_games">Seems like you have not played any games yet</string>
+    <string name="string_join_multi_game">Join a game</string>
+    <string name="string_multiplayer_quiz">MULTIPLAYER QUIZ</string>
+    <string name="string_join_game">JOIN THE FUN</string>
+    <string name="string_join_game_text">Join a multiplayer game with a PIN provided by the host and answer questions on your device. You have 10 seconds to answer each question and each correct answer is worth 10 points. \n Good luck!</string>
+    <string name="hint_pin">PIN</string>
+    <string name="string_lobby_text">Waiting for others to join...</string>
+    <string name="string_start_game">Start Game</string>
+    <string name="string_exit">EXIT</string>
+    <string name="string_scoreboard">Scoreboard</string>
+    <string name="string_hosted_by">Hosted by:</string>
+    <string name="string_points_earned">Points earned:</string>
+    <string name="string_played_on">Played on:</string>
+    <string name="string_play_again">Play it again</string>
+    <string name="string_play_new">Play something new</string>
+
+    <!--    spinner values-->
+    <string-array name="quiz_difficulties">
+        <item>Random</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="create_quiz_difficulties">
+        <item>Difficulty</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="quiz_nr_questions">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>
